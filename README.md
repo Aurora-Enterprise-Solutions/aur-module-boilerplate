@@ -1,0 +1,1 @@
+# aur-module-boilerplate
